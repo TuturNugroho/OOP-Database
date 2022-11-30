@@ -1,0 +1,16 @@
+{
+  "name": "staditek/mini-framework",
+  "description": "PHP",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Tutur Nurgoho",
+      "email": "tutur.nurgoho@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Staditek\\App\\": "App"
+    }
+  }
+}
